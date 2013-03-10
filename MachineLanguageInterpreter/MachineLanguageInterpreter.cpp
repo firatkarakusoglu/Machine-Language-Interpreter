@@ -386,7 +386,7 @@ int main()
             execute();
             }
     int i;
-    scanf("%d",&i);
+    cin>>i;
 }
 
 
